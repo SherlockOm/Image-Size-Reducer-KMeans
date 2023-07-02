@@ -1,3 +1,3 @@
 # Image-Size-Reducer-K-Means
-This repo contains the image size reducer project using K-Means made by me.
+This repo contains the image size reducer project using K-Means made by me.\n
 Packages use : numpy, matplotlib
